@@ -1,0 +1,108 @@
+body {
+    margin: 0; 
+    padding: 5px;
+    background-color: #F4F6F6;
+}
+  
+input {
+  margin: 0;
+  padding: 0; 
+}
+
+.title {
+  background-color: #F4F6F6;
+  color: #1B82FF;
+  text-align: center;
+  margin-bottom: 40px;
+  font-family:"lucida grande",tahoma,verdana,arial,sans-serif;
+  font-size: 45px;  
+}
+
+
+
+.LogintoFB{ 
+font-family: Arial, Helvetica, sans-serif;
+ text-align: center;
+  margin-bottom: 20px;
+   
+  
+
+}
+
+form {
+  
+}
+  
+form input[type="text"], form input[type="password"] {
+  display: block;
+  height: 30px;
+  width: 60%;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 7px;
+ border: 1.5px solid #e7e7e7;
+  margin-left: auto;
+  margin-right: auto;
+ 
+
+}
+
+#submit-btn {
+  background-color: #1B82FF;
+  border: none;
+  color: #FFFFFF;
+ 
+  padding: 20px;
+  text-align: center;
+  width: 60%;
+  margin-top:10px;
+  border-radius: 7px;
+  display: block;
+   margin-left: auto;
+  margin-right: auto;
+    }
+  
+#submit-btn:hover {
+  cursor: pointer;
+}
+
+a {
+  color:  #1B82FF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ 
+
+.Forgotaccount {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.or{
+  text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+     margin-top:20px;
+     color: #999C99;
+     font-size: 70%;
+
+}
+
+.button {
+  background-color: #59DA3D;
+  border: none;
+  color: #FFFFFF;
+  padding: 20px;
+  text-align: center;
+  width: 30%;
+  margin-top:20px;
+  cursor: pointer;
+  border-radius: 7px;
+   display: block;
+   margin-left: auto;
+  margin-right: auto; 
+}
+
+
+
+ 
